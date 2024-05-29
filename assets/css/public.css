@@ -1,0 +1,15 @@
+.variation-options {
+    margin-top: 10px;
+}
+
+.variation {
+    margin-bottom: 5px;
+}
+
+.variation span {
+    display: inline-block;
+    margin-right: 5px;
+    border: 1px solid;
+    padding: 0 5px;
+    border-radius: 3px;
+}
